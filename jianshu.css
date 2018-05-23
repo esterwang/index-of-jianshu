@@ -1,0 +1,169 @@
+<style>
+	
+	body{
+            background-repeat:no-repeat;
+            background-size:cover;   
+	    }
+    ul {    
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #FFF;
+            border-bottom: 1px solid #EEE;
+        }
+    
+	li {
+    		float: left;
+    		list-style-type:none;
+		}
+ 
+	li a {
+            display: block;
+            color: black;
+            text-align: center;
+            padding: 16px 16px;
+            text-decoration: none;
+            font-size: 17px;
+        }   
+    li a:hover {
+   			background-color: #EEE;
+		}
+
+    #input1{
+    	    padding: 0 40px 0 20px;
+    	    width: 160px;
+    		height: 38px;
+    		margin-top: 8px;
+    		font-size: 14px;
+        	border:1px solid #EEE;
+        	border-radius: 40px;
+        	background: #EEE;  
+        }
+    #input2{
+    	    padding: 0 40px 0 20px;
+    	    width: 100px;
+    		height: 40px;
+    		margin-top: 8px;
+    		margin-right: 15px;
+    		color: white;
+    		font-size: 15px;
+        	border:1px solid #EEE;
+        	border-radius: 20px;
+        	background: #EC6149;  
+
+        }
+    #touxiang{
+    		width: 50px;
+    		height: 50px;
+            border-radius: 200px; 
+            border:1px solid #EEE;
+        }
+
+    #div{
+    		margin-top: -355px;
+    		margin-left: 850px;
+    }
+    #banar{   
+    	    margin-top: 80px;
+    		margin-left: 90px;
+    		width: 700px;
+    		height: 350px;
+            border-radius: 10px; 
+            border: 1px solid #EEE;
+        }
+    #img{   
+    	    display: block;
+            width: 360px;
+            height: 70px;
+            border-radius: 1px; 
+    }
+    #block{ 
+            margin-top: 10px;  
+    	    display: block;
+    	    width: 360px;
+    		height: 105px;
+            border-radius: 10px; 
+            border: 1px solid #EEE;
+    }
+    #app{
+    		display: inline;
+    		float: right;
+    	    width: 240px;
+    		height: 100px;
+    }
+    #sdiv1{
+    		margin-top: -80px;
+    		margin-left: 90px;
+        	width: 150px;
+    		height: 40px;
+    		border-radius: 4px; 
+    		border: 1px solid #EEE;
+          }
+    #sdiv2{
+    		margin-top: -40px;
+    		margin-left: 270px;
+        	width: 100px;
+    		height: 40px;
+    		border-radius: 4px; 
+    		border: 1px solid #EEE;
+    }
+    #sdiv3{
+    		margin-top: -40px;
+    		margin-left: 400px;
+        	width: 100px;
+    		height: 40px;
+    		border-radius: 4px; 
+    		border: 1px solid #EEE;
+    }
+    #sdiv4{
+    		margin-top: -40px;
+    		margin-left: 530px;
+        	width: 100px;
+    		height: 40px;
+    		border-radius: 4px; 
+    		border: 1px solid #EEE;
+    }
+    #sdiv5{
+    		margin-top: -40px;
+    		margin-left: 660px;
+        	width: 130px;
+    		height: 40px;
+    		border-radius: 4px; 
+    		border: 1px solid #EEE;
+    }
+
+    #sdiv6{
+    		margin-top: 10px;
+    		margin-left: 90px;
+        	width: 150px;
+    		height: 40px;
+    		border-radius: 4px; 
+    		border: 1px solid #EEE;
+    }
+    #sdiv7{
+    		margin-top: -40px;
+    		margin-left: 270px;
+        	width: 100px;
+    		height: 40px;
+    		border-radius: 4px; 
+    		border: 1px solid #EEE;
+    }
+    #sdiv8{
+    	    margin-top: -40px;
+    		margin-left: 400px;
+    }
+    #sp{
+    		margin-top: -35px;
+    		margin-left: 50px;
+    		height: 40px;
+    }
+    #simg{
+    		border-radius: 4px; 
+    		width: 40px;
+    		height: 40px;
+    }
+</style>
